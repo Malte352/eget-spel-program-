@@ -1,11 +1,20 @@
 # eget-spel-program-
 
-var ljus = "Orange";
-var mörk = "brown";
+var red = rd;
 
-var headcolur = print("färg på huvudet Orange eller Svart");
-if 
+var red = rd;
 
-ellipse(200, 76, 50, 66);
 
-rect(194, 109, 10, 102);
+var headcolur = prompt("färg på huvudet Orange eller Svart") 
+
+if (headcolur === "Orange") 
+    red = orangre
+  
+  if (headcolur === "Svart") 
+    red = black
+
+    
+  circle(200, 76, 50, "rd");
+    
+ 
+rectangle(194, 109, 10, 102 "rd");
